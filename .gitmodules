@@ -1,0 +1,6 @@
+[submodule "char_remotexy_wemos"]
+	path = char_remotexy_wemos
+	url = https://github.com/apprensemble/char_remotexy_wemos.git
+[submodule "Autonomous-Car"]
+	path = Autonomous-Car
+	url = https://github.com/apprensemble/Autonomous-Car.git
